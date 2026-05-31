@@ -23,12 +23,6 @@ class ProfileInfo {
 ```
 
 <br>
-<p align="center">
-    <kbd>
-      <img src="https://github-profile-trophy.vercel.app/?username=celunah&theme=onedark" alt="My trophies"></img>
-    </kbd>
-</p>
-<br>
     <p>Expand to see details about me.</p>
 <details>
     <summary>&nbsp;</summary>
@@ -67,14 +61,7 @@ class ProfileInfo {
     <summary>&nbsp;</summary><br>
     <details>
     <summary>General Stats</summary>
-    <br>
-    <p align="center">
-        <img width="300px" height="120px" src="https://github-readme-stats.vercel.app/api?username=celunah&show_icons=true&theme=dracula"></img>
-        <img width="300px" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celunah&layout=compact&theme=dracula"></img>
-    </p>
-    <p align="center">
-        <img width="300px" height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=celunah&theme=dracula"></img>
-    </p>
+    <p>Currently unavailable, check later.</p>
     <details>
     <summary>Activity Graph</summary>
     <img src="https://raw.githubusercontent.com/celunah/celunah/refs/heads/main/snake/snake.svg"></img>
